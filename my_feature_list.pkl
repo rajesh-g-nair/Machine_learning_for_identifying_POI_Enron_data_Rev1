@@ -1,0 +1,14 @@
+(lp0
+S'poi'
+p1
+aS'exercised_stock_options'
+p2
+aS'fraction_to_poi'
+p3
+aS'bonus'
+p4
+aS'shared_receipt_with_poi'
+p5
+aS'expenses'
+p6
+a.
